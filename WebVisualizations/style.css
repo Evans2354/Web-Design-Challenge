@@ -3,10 +3,18 @@
   color: white;
   background-color: teal;
 }
-h1 {
-    color: white;
-    background-color:teal;
-  }
+h1{
+  color: white;
+  background-color:teal;
+  display: block;
+  text-align: center;
+  width: 4em;
+  font-size: 2em;
+  margin-top: 0.05em;
+  margin-bottom: 0.67em;
+  margin-left: 2em;
+  font-weight: bold;
+} 
 h2 {
     color:teal;
 }
