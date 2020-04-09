@@ -10,6 +10,12 @@ h1 {
 h2 {
     color:teal;
 }
+h3 {
+  color:teal;
+}
+h4 {
+  color:teal;
+}
 img {
     float: left;
   }
@@ -19,6 +25,7 @@ img {
     background: #cdcdcd;
     padding-left: 50px;
   }
+
 
 .purple {
   color: purple;
